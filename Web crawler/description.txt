@@ -1,1 +1,0 @@
-This are web crawlers are to collect lebeled news article from 3 differnent bangla news portals. I wanted to test differnt machine learning algorithms for chategoriaing them.
