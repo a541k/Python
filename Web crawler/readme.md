@@ -1,1 +1,1 @@
-# this web crawlers collects and saves labeled news article from corresponding bangla news portal
+# this web crawlers collect and save labeled news article from corresponding bangla news portal
